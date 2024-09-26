@@ -25,3 +25,4 @@ Once the system is up and running:
 - **Patent Holder**: Successfully filed a patent for the **AI-based LPG Gas Leakage Detection and Fire Alert System**. This innovative system leverages advanced sensing technology to detect gas leaks and fire hazards, ensuring comprehensive home safety. The patent showcases the pioneering work in integrating AI with real-time alert systems for enhanced security.
 - **Patent Holders**: Arghya Bhattacharjee, Debmalya Pan
 - **Patent File**: [View Patent Document](https://drive.google.com/file/d/15LbF2Tv3y0DxKQk1tlhBDZy5qUI1nr24/view)
+  https://github.com/user-attachments/assets/72ac0f1d-1ca5-48d2-8f61-1beceb6a968a
