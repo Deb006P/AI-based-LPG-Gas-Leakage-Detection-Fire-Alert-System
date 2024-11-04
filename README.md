@@ -22,7 +22,7 @@ Once the system is up and running:
 - Users can respond to the alert and take necessary actions to ensure safety.
 
 ## Video Demo
--  https://github.com/user-attachments/assets/72ac0f1d-1ca5-48d2-8f61-1beceb6a968a
+-  https://youtu.be/ItU26umeodg?si=MYF8LyiZNyETIyuU
  
 ## Achievements
 - **Patent Holder**: Successfully filed a patent for the **AI-based LPG Gas Leakage Detection and Fire Alert System**. This innovative system leverages advanced sensing technology to detect gas leaks and fire hazards, ensuring comprehensive home safety. The patent showcases the pioneering work in integrating AI with real-time alert systems for enhanced security.
